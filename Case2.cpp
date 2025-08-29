@@ -1,3 +1,4 @@
+// 49 - 50
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
@@ -24,4 +25,5 @@ signed main(){
     for(auto x : a){
         cout << x << ' ';
     }
+
 }
